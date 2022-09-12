@@ -1,0 +1,19 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "Tribute page for the one and only king",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisaacsotelo/tribute-page.git"
+  },
+  "author": "Isaac Sotelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gisaacsotelo/tribute-page/issues"
+  },
+  "homepage": "https://github.com/gisaacsotelo/tribute-page#readme"
+}
